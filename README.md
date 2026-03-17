@@ -1,4 +1,4 @@
-## o7
+## Justin Lapoirie
 
 3rd Year Computer Science / Cyber Security student at California State University San Marcos
 
@@ -9,6 +9,8 @@ Interested in writing tools/scripts in security applications, vulnerability anal
 Sub-interests: network security, IT, backend game/web/app development
 
 Open to internship/entry-level opportunities both remote and hybrid/in-person in San Diego County / Orange County, Southern California
+
+contact me at justin.lapoirie@gmail.com
 
 <!--
 Just a comp sci student messing around with repositories? Definitely didn't learn how to fork one until like 4 days ago...
